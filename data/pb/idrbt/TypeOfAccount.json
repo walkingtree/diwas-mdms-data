@@ -1,46 +1,46 @@
 { 
 	"tenantId": "pb",
-    	"moduleName": "idrbt",
-  "AccountTypes": [
-    {
-      "name": "Savings Account",
-      "code": "SAV",
-      "active": true
-    },
-    {
-      "name": "Current Account",
-      "code": "CUR",
-      "active": true
-    },
-    {
-      "name": "Fixed Deposit Account",
-      "code": "FD",
-      "active": true
-    },
-    {
-      "name": "Recurring Deposit Account",
-      "code": "RD",
-      "active": true
-    },
-    {
-      "name": "NRI Account",
-      "code": "NRI",
-      "active": true
-    },
-    {
-      "name": "Salary Account",
-      "code": "SAL",
-      "active": true
-    },
-    {
-      "name": "Demat Account",
-      "code": "DEM",
-      "active": true
-    },
-    {
-      "name": "Loan Account",
-      "code": "LOA",
-      "active": true
-    }
-  ]
+    "moduleName": "idrbt",
+    "TypeOfAccount": [
+      {
+        "name": "Savings Account",
+        "code": "SAV",
+        "active": true
+      },
+      {
+        "name": "Current Account",
+        "code": "CUR",
+        "active": true
+      },
+      {
+        "name": "Fixed Deposit Account",
+        "code": "FD",
+        "active": true
+      },
+      {
+        "name": "Recurring Deposit Account",
+        "code": "RD",
+        "active": true
+      },
+      {
+        "name": "NRI Account",
+        "code": "NRI",
+        "active": true
+      },
+      {
+        "name": "Salary Account",
+        "code": "SAL",
+        "active": true
+      },
+      {
+        "name": "Demat Account",
+        "code": "DEM",
+        "active": true
+      },
+      {
+        "name": "Loan Account",
+        "code": "LOA",
+        "active": true
+      }
+    ]
 }

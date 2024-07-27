@@ -1,106 +1,106 @@
 { 
 	"tenantId": "pb",
-    	"moduleName": "idrbt",
-  "Banks": [
-    {
-      "name": "State Bank of India",
-      "code": "SBI",
-      "active": true
-    },
-    {
-      "name": "HDFC Bank",
-      "code": "HDFC",
-      "active": true
-    },
-    {
-      "name": "ICICI Bank",
-      "code": "ICICI",
-      "active": true
-    },
-    {
-      "name": "Punjab National Bank",
-      "code": "PNB",
-      "active": true
-    },
-    {
-      "name": "Bank of Baroda",
-      "code": "BOB",
-      "active": true
-    },
-    {
-      "name": "Axis Bank",
-      "code": "AXIS",
-      "active": true
-    },
-    {
-      "name": "Kotak Mahindra Bank",
-      "code": "KMB",
-      "active": true
-    },
-    {
-      "name": "IndusInd Bank",
-      "code": "INDUS",
-      "active": true
-    },
-    {
-      "name": "Yes Bank",
-      "code": "YES",
-      "active": true
-    },
-    {
-      "name": "Union Bank of India",
-      "code": "UBI",
-      "active": true
-    },
-    {
-      "name": "Canara Bank",
-      "code": "CB",
-      "active": true
-    },
-    {
-      "name": "IDFC First Bank",
-      "code": "IDFC",
-      "active": true
-    },
-    {
-      "name": "Bank of India",
-      "code": "BOI",
-      "active": true
-    },
-    {
-      "name": "Central Bank of India",
-      "code": "CBI",
-      "active": true
-    },
-    {
-      "name": "Indian Bank",
-      "code": "IB",
-      "active": true
-    },
-    {
-      "name": "Indian Overseas Bank",
-      "code": "IOB",
-      "active": true
-    },
-    {
-      "name": "UCO Bank",
-      "code": "UCO",
-      "active": true
-    },
-    {
-      "name": "Federal Bank",
-      "code": "FB",
-      "active": true
-    },
-    {
-      "name": "Bandhan Bank",
-      "code": "BANDHAN",
-      "active": true
-    },
-    {
-      "name": "RBL Bank",
-      "code": "RBL",
-      "active": true
-    }
-  ]
+    "moduleName": "idrbt",
+    "Banks": [
+      {
+        "name": "State Bank of India",
+        "code": "SBI",
+        "active": true
+      },
+      {
+        "name": "HDFC Bank",
+        "code": "HDFC",
+        "active": true
+      },
+      {
+        "name": "ICICI Bank",
+        "code": "ICICI",
+        "active": true
+      },
+      {
+        "name": "Punjab National Bank",
+        "code": "PNB",
+        "active": true
+      },
+      {
+        "name": "Bank of Baroda",
+        "code": "BOB",
+        "active": true
+      },
+      {
+        "name": "Axis Bank",
+        "code": "AXIS",
+        "active": true
+      },
+      {
+        "name": "Kotak Mahindra Bank",
+        "code": "KMB",
+        "active": true
+      },
+      {
+        "name": "IndusInd Bank",
+        "code": "INDUS",
+        "active": true
+      },
+      {
+        "name": "Yes Bank",
+        "code": "YES",
+        "active": true
+      },
+      {
+        "name": "Union Bank of India",
+        "code": "UBI",
+        "active": true
+      },
+      {
+        "name": "Canara Bank",
+        "code": "CB",
+        "active": true
+      },
+      {
+        "name": "IDFC First Bank",
+        "code": "IDFC",
+        "active": true
+      },
+      {
+        "name": "Bank of India",
+        "code": "BOI",
+        "active": true
+      },
+      {
+        "name": "Central Bank of India",
+        "code": "CBI",
+        "active": true
+      },
+      {
+        "name": "Indian Bank",
+        "code": "IB",
+        "active": true
+      },
+      {
+        "name": "Indian Overseas Bank",
+        "code": "IOB",
+        "active": true
+      },
+      {
+        "name": "UCO Bank",
+        "code": "UCO",
+        "active": true
+      },
+      {
+        "name": "Federal Bank",
+        "code": "FB",
+        "active": true
+      },
+      {
+        "name": "Bandhan Bank",
+        "code": "BANDHAN",
+        "active": true
+      },
+      {
+        "name": "RBL Bank",
+        "code": "RBL",
+        "active": true
+      }
+    ]
 }

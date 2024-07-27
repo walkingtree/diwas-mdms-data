@@ -1,6 +1,6 @@
 { 
-	"tenantId": "mp",
-    	"moduleName": "ilms",
+	"tenantId": "pb",
+    	"moduleName": "idrbt",
     	"District": [{
             "name": "Alirajpur",
             "code": "A001",
