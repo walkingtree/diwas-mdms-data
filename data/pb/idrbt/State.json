@@ -1,0 +1,186 @@
+{ 
+	"tenantId": "pb",
+     "moduleName": "idrbt",
+     "States": [
+    {
+      "name": "Andhra Pradesh",
+      "code": "AP",
+      "active": true
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "code": "AR",
+      "active": true
+    },
+    {
+      "name": "Assam",
+      "code": "AS",
+      "active": true
+    },
+    {
+      "name": "Bihar",
+      "code": "BR",
+      "active": true
+    },
+    {
+      "name": "Chhattisgarh",
+      "code": "CG",
+      "active": true
+    },
+    {
+      "name": "Goa",
+      "code": "GA",
+      "active": true
+    },
+    {
+      "name": "Gujarat",
+      "code": "GJ",
+      "active": true
+    },
+    {
+      "name": "Haryana",
+      "code": "HR",
+      "active": true
+    },
+    {
+      "name": "Himachal Pradesh",
+      "code": "HP",
+      "active": true
+    },
+    {
+      "name": "Jharkhand",
+      "code": "JH",
+      "active": true
+    },
+    {
+      "name": "Karnataka",
+      "code": "KA",
+      "active": true
+    },
+    {
+      "name": "Kerala",
+      "code": "KL",
+      "active": true
+    },
+    {
+      "name": "Madhya Pradesh",
+      "code": "MP",
+      "active": true
+    },
+    {
+      "name": "Maharashtra",
+      "code": "MH",
+      "active": true
+    },
+    {
+      "name": "Manipur",
+      "code": "MN",
+      "active": true
+    },
+    {
+      "name": "Meghalaya",
+      "code": "ML",
+      "active": true
+    },
+    {
+      "name": "Mizoram",
+      "code": "MZ",
+      "active": true
+    },
+    {
+      "name": "Nagaland",
+      "code": "NL",
+      "active": true
+    },
+    {
+      "name": "Odisha",
+      "code": "OR",
+      "active": true
+    },
+    {
+      "name": "Punjab",
+      "code": "PB",
+      "active": true
+    },
+    {
+      "name": "Rajasthan",
+      "code": "RJ",
+      "active": true
+    },
+    {
+      "name": "Sikkim",
+      "code": "SK",
+      "active": true
+    },
+    {
+      "name": "Tamil Nadu",
+      "code": "TN",
+      "active": true
+    },
+    {
+      "name": "Telangana",
+      "code": "TG",
+      "active": true
+    },
+    {
+      "name": "Tripura",
+      "code": "TR",
+      "active": true
+    },
+    {
+      "name": "Uttar Pradesh",
+      "code": "UP",
+      "active": true
+    },
+    {
+      "name": "Uttarakhand",
+      "code": "UK",
+      "active": true
+    },
+    {
+      "name": "West Bengal",
+      "code": "WB",
+      "active": true
+    },
+    {
+      "name": "Andaman and Nicobar Islands",
+      "code": "AN",
+      "active": true
+    },
+    {
+      "name": "Chandigarh",
+      "code": "CH",
+      "active": true
+    },
+    {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "code": "DN",
+      "active": true
+    },
+    {
+      "name": "Lakshadweep",
+      "code": "LD",
+      "active": true
+    },
+    {
+      "name": "Delhi",
+      "code": "DL",
+      "active": true
+    },
+    {
+      "name": "Puducherry",
+      "code": "PY",
+      "active": true
+    },
+    {
+      "name": "Ladakh",
+      "code": "LA",
+      "active": true
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "code": "JK",
+      "active": true
+    }
+  ]
+}

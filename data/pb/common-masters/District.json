@@ -1,0 +1,11 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "common-masters",
+    	"District": [
+            {
+            "name": "Bhopal",
+            "code": "A001",
+            "active": true
+            }
+        ]
+}

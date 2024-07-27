@@ -1,0 +1,10 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "common-masters",
+    	"State": [{
+            "name": "Madhya Pradesh",
+            "code": "MP",
+            "active": true
+        }
+    ]
+}

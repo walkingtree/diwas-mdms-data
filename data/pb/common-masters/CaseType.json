@@ -1,0 +1,612 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "common-masters",
+    	"CaseType": [{
+            "name": "ARBITRATION ACT CASE (WEF 15/10/03)",
+            "code": "ARB",
+            "active": true
+        },
+        {
+            "name": "Arbitration Case (Domestic Commercial)",
+            "code": "ARB-DC",
+            "active": true
+        },
+	{
+            "name": "Arbitration Case(International Comm. Arbitration)",
+            "code": "ARB-ICA",
+            "active": true
+        },
+	{
+            "name": "CIVIL APPEAL/COMPANY APPLICATION",
+            "code": "CA",
+            "active": true
+        },
+      {
+            "name": "Commercial Appeal (Writ) ",
+            "code": "CA-CWP",
+            "active": true
+        },
+	{
+            "name": "Commercial Appeal (MISC)",
+            "code": "CA-MISC",
+            "active": true
+        },
+      {
+            "name": "CONTEMPT APPEALS",
+            "code": "CACP",
+            "active": true
+        },
+	{
+            "name": "COMPANY APPEAL",
+            "code": "CAPP",
+            "active": true
+        },
+      {
+            "name": "CUSTOM CENTRAL EXCISE CASE",
+            "code": "CCEC",
+            "active": true
+        },
+	{
+            "name": "CCES ",
+            "code": "CCES ",
+            "active": true
+        },
+      {
+            "name": "CENTRAL EXCEISE APPEAL (WEF 10-11-2003)",
+            "code": "CEA",
+            "active": true
+        },
+      {
+            "name": "CENTRAL EXCISE CASE",
+            "code": "CEC",
+            "active": true
+        },
+	{
+            "name": "CENTRAL EXCISE GOLD CASE",
+            "code": "CECG",
+            "active": true
+        },
+      {
+            "name": "CENTRAL EXCISE AND SALT REFERENCE",
+            "code": "CESR",
+            "active": true
+        },
+	{
+            "name": "CLAIMS",
+            "code": "CLAIM",
+            "active": true
+        },
+       {
+            "name": "CIVIL MISC",
+            "code": "CM",
+            "active": true
+        },
+	{
+            "name": "COMPANY MISC. APPLICATION",
+            "code": "CMA",
+            "active": true
+        },
+      {
+            "name": "HMA CASES U/S 24",
+            "code": "CMM",
+            "active": true
+        },
+	{
+            "name": "CIVIL ORIGINAL",
+            "code": "CO",
+            "active": true
+        },
+      {
+            "name": "Civil Original (Commercial)",
+            "code": "CO-COM",
+            "active": true
+        },
+       {
+            "name": "Company Application",
+            "code": "COA",
+            "active": true
+        },
+	{
+            "name": "CIVIL ORIGINAL COONTEMPT PETITION",
+            "code": "COCP",
+            "active": true
+        },
+      {
+            "name": "COMPANY PETITIONS",
+            "code": "CP",
+            "active": true
+        },
+	{
+            "name": "Commercial Petiton (Misc)",
+            "code": "CP-MISC",
+            "active": true
+        },
+       {
+            "name": "CIVIL REVISION",
+            "code": "CR",
+            "active": true
+        },
+       {
+            "name": "Civil Revision (Commercial)",
+            "code": "CR-COM",
+            "active": true
+        },
+	{
+            "name": "CRIMINAL APPEAL",
+            "code": "CRA",
+            "active": true
+        },
+      {
+            "name": "CRIMINAL APPEAL ACQUITAL DB",
+            "code": "CRA-AD",
+            "active": true
+        },
+	{
+            "name": "CRIMINAL APPEAL ACQUITAL SB",
+            "code": "CRA-AS",
+            "active": true
+        },
+       {
+            "name": "CRIMINAL APPEAL DB",
+            "code": "CRA-D",
+            "active": true
+        },
+       {
+            "name": "CRIMINAL APPEAL SB",
+            "code": "CRA-S",
+            "active": true
+        },
+	{
+            "name": "CRIMINAL APPEAL",
+            "code": "CRA",
+            "active": true
+        },
+      {
+            "name": "CRIM APPEAL CONTEMP PETITION",
+            "code": "CRACP",
+            "active": true
+        },
+	{
+            "name": "CIVIL REFERENCE",
+            "code": "CREF",
+            "active": true
+        },
+       {
+            "name": "CRIMINAL MISCELLANEOUS PETITION",
+            "code": "CRM",
+            "active": true
+        },
+       {
+            "name": "AGAINST ACQUITALS",
+            "code": "CRM-A",
+            "active": true
+        },
+	{
+            "name": "CRIMINAL APPEAL",
+            "code": "CRA",
+            "active": true
+        },
+      {
+            "name": "CRIMINAL MAIN",
+            "code": "CRM-M",
+            "active": true
+        },
+	{
+            "name": "CRM IN CRWP",
+            "code": "CRM-W",
+            "active": true
+        },
+       {
+            "name": "CRIMINAL OROGINAL CONTEMPT PETITION",
+            "code": "CROCP",
+            "active": true
+        },
+       {
+            "name": "CRIMINAL REVISION",
+            "code": "CRR",
+            "active": true
+        },
+	{
+            "name": "CRIMINAL REVISION (Family Court)",
+            "code": "CRR(F)",
+            "active": true
+        },
+      {
+            "name": "CRIMINAL REFERENCE",
+            "code": "CRREF",
+            "active": true
+        },
+	{
+            "name": "CRIMINAL WRIT PETITION",
+            "code": "CRWP",
+            "active": true
+        },
+       {
+            "name": "CIVIL SUIT",
+            "code": "CS",
+            "active": true
+        },
+       {
+            "name": "CIVIL SUIT-ORIGINAL SIDE",
+            "code": "CS-OS",
+            "active": true
+        },
+       {
+            "name": "CUSTOM APPEAL (WEF 17/7/2004)",
+            "code": "CUSAP",
+            "active": true
+        },
+	{
+            "name": "CIVIL WRIT PETITION",
+            "code": "CWP",
+            "active": true
+        },
+      {
+            "name": "Civil Writ Petition (Commercial)",
+            "code": "CWP-COM",
+            "active": true
+        },
+	{
+            "name": "DIVORCE PETITION",
+            "code": "DP",
+            "active": true
+        },
+	   {
+            "name": "EXECUTION APPL",
+            "code": "EA",
+            "active": true
+        },
+       {
+            "name": "ESTATE DUTY CASE",
+            "code": "EDC",
+            "active": true
+        },
+       {
+            "name": "ESTATE DUTY REFERENCE",
+            "code": "EDREF",
+            "active": true
+        },
+	  {
+            "name": "EXECUTION FIRST APPEAL",
+            "code": "EFA",
+            "active": true
+        },
+      {
+            "name": "Execution First Appeal (Commercial)",
+            "code": "EFA-COM",
+            "active": true
+        },
+	  {
+            "name": "ELECTION PETITIONS",
+            "code": "EP",
+            "active": true
+        },
+	  {
+            "name": "Execution Petition (Commercial)",
+            "code": "EP-COM",
+            "active": true
+        },
+       {
+            "name": "EXECUTION SECOND APPEAL",
+            "code": "ESA",
+            "active": true
+        },
+       {
+            "name": "FIRST APPEAL ORDER",
+            "code": "FAO",
+            "active": true
+        },
+	{
+            "name": "FAO (FAMILY COURT)",
+            "code": "FAO(FC)",
+            "active": true
+        },
+      {
+            "name": "FAO (CUS AND MTC)",
+            "code": "FAO-C",
+            "active": true
+        },
+	{
+            "name": "First Appeal from Order (Commercial Arbitration)",
+            "code": " FAO-CARB",
+            "active": true
+        },
+       {
+            "name": "First Appeal from Order (Commercial)",
+            "code": "FAO-COM",
+            "active": true
+        },
+	{
+            "name": "First Appeal from Order(International Comm.Arbi.)",
+            "code": "FAO-ICA",
+            "active": true
+        },
+       {
+            "name": "FIRST APPEAL ORDER-MATRIMONIAL",
+            "code": "FAO-M",
+            "active": true
+        },
+       {
+            "name": "GOLD CONTROL REFERENCE",
+            "code": "GCR",
+            "active": true
+        },
+	{
+            "name": "GENRAL SALES TAX REFERENCE",
+            "code": "GSTR",
+            "active": true
+        },
+      {
+            "name": "GIFT TAX APPEAL",
+            "code": "GTA",
+            "active": true
+        },
+	{
+            "name": "GIFT TAX CASE",
+            "code": " GTC",
+            "active": true
+        },
+       {
+            "name": "GIFT TAX REFERENCE",
+            "code": "GTR",
+            "active": true
+        },
+       {
+            "name": "GENERAL VAT REFERENCES",
+            "code": "GVATR",
+            "active": true
+        },
+       {
+            "name": "INCOMPLETE OBJECTION CASE",
+            "code": "INCOMP",
+            "active": true
+        },
+	{
+            "name": "INTEREST TAX APPEAL",
+            "code": "INTTA",
+            "active": true
+        },
+      {
+            "name": "Interim Order in",
+            "code": " IOIN",
+            "active": true
+        },
+	{
+            "name": "INCOME TAX APPEAL",
+            "code": "ITA",
+            "active": true
+        },
+      {
+            "name": "INCOME TAX CASES",
+            "code": "ITC",
+            "active": true
+        },
+       {
+            "name": "INCOME TAX REFERENCE",
+            "code": "ITR",
+            "active": true
+        },
+       {
+            "name": "LATTER PATENT APPEALS",
+            "code": "LPA",
+            "active": true
+        },
+	{
+            "name": "Liquidator Report",
+            "code": "LR",
+            "active": true
+        },
+      {
+            "name": "MATROMONIAL REFERENCE",
+            "code": " MATRF",
+            "active": true
+        },
+	{
+            "name": "MURDER REFRENCE CASE",
+            "code": "MRC",
+            "active": true
+        },
+      {
+            "name": "ORIGINAL & MISCELLANEOUS",
+            "code": "O&M",
+            "active": true
+        },
+       {
+            "name": "Official Liquidator Report",
+            "code": "OLR",
+            "active": true
+        },
+       {
+            "name": "PROBATE",
+            "code": "PBT",
+            "active": true
+        },
+	{
+            "name": "PB VAT REVISION",
+            "code": "PVR",
+            "active": true
+        },
+      {
+            "name": "REVIEW APPL",
+            "code": " RA",
+            "active": true
+        },
+	{
+            "name": "REVIEW IN COMPANY APPEAL",
+            "code": "RA-CA",
+            "active": true
+        },
+       {
+            "name": "REVIEW IN COMPANY PETITION",
+            "code": "RA-CP",
+            "active": true
+        },
+       {
+            "name": "REVIEW IN CR",
+            "code": "RA-CR",
+            "active": true
+        },
+       {
+            "name": "REVIEW IN CWP",
+            "code": "RA-CW",
+            "active": true
+        },
+	{
+            "name": "REVIEW IN LPA",
+            "code": "RA-LP",
+            "active": true
+        },
+      {
+            "name": "REVIEW APPLICATION IN RFA",
+            "code": " RA-RF",
+            "active": true
+        },
+	{
+            "name": "REVIEW IN RSA",
+            "code": "RA-RS",
+            "active": true
+        },
+      {
+            "name": "REVIEW IN CRCWP",
+            "code": "RCRWP",
+            "active": true
+        },
+       {
+            "name": "REGULAR FIRST APPEAL",
+            "code": "RFA",
+            "active": true
+        },
+       {
+            "name": "Regular First Appeal (Commercial)",
+            "code": "RFA-COM",
+            "active": true
+        },
+       {
+            "name": "Recrimination Petition",
+            "code": "RP",
+            "active": true
+        },
+	{
+            "name": "REGULAR SECOND APPEAL",
+            "code": "RSA",
+            "active": true
+        },
+      {
+            "name": "SERVICE APPEAL",
+            "code": "SA",
+            "active": true
+        },
+	{
+            "name": "SECOND APPEAL ORDER",
+            "code": "SAO",
+            "active": true
+        },
+      {
+            "name": "STATE DUTY REFERENCE",
+            "code": "SDR",
+            "active": true
+        },
+       {
+            "name": "Service Tax Appeal",
+            "code": "STA",
+            "active": true
+        },
+       {
+            "name": "SALES TAX CASES",
+            "code": "STC",
+            "active": true
+        },
+	{
+            "name": "SALE TAX REFERENCE",
+            "code": "STR",
+            "active": true
+        },
+      {
+            "name": "TRANSFER APPLICATION",
+            "code": "TA",
+            "active": true
+        },
+	{
+            "name": "Transfer Application (Commercial)",
+            "code": "TA-COM",
+            "active": true
+        },
+       {
+            "name": "TAKENUP CASES",
+            "code": "TC",
+            "active": true
+        },
+       {
+            "name": "TRANSFER CRIMINAL PETITION",
+            "code": "TCRM",
+            "active": true
+        },
+       {
+            "name": "UT VAT APPEAL",
+            "code": "UVA",
+            "active": true
+        },
+	{
+            "name": "UT VAT REVISION",
+            "code": "UVR",
+            "active": true
+        },
+      {
+            "name": "VAT APPEAL",
+            "code": "VATAP",
+            "active": true
+        },
+	{
+            "name": "VALUE ADDED TAX CASE",
+            "code": "VATCASE",
+            "active": true
+        },
+      {
+            "name": "VAT REFERENCE",
+            "code": "VATREF",
+            "active": true
+        },
+       {
+            "name": "WEALTH TAX APPEAL",
+            "code": "WTA",
+            "active": true
+        },
+       {
+            "name": "WEALTH TAX CASES",
+            "code": "WTC",
+            "active": true
+        },
+	{
+            "name": "WEALTH TAX REFRENCE",
+            "code": "WTR",
+            "active": true
+        },
+      {
+            "name": "CROSS OBJECTION",
+            "code": "XOBJ",
+            "active": true
+        },
+	{
+            "name": "CROSS OBJECTION IN CR",
+            "code": "XOBJC",
+            "active": true
+        },
+      {
+            "name": "CROSS OBJECTIN LPA",
+            "code": "XOBJL",
+            "active": true
+        },
+      {
+            "name": "CROSS OBJECTION IN RFA ",
+            "code": "XOBJR",
+            "active": true
+        },
+	{
+            "name": "CROSS OBJECTION IN RSA",
+            "code": "XOBJS",
+            "active": true
+        }
+
+
+    ]
+}

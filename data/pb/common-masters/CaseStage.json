@@ -1,0 +1,31 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "common-masters",
+    	"CaseStage": [{
+            "name": "Notice for petition / Copy of petition uploaded",
+            "code": "NOP-CP",
+            "active": true
+        },
+        {
+            "name": "Notice for Counter Affidavit/ Notice for Show Cause",
+            "code": "NCA-NSC",
+            "active": true
+        },
+	{
+            "name": "Notice for Supplementary Affidavit",
+            "code": "NSA",
+            "active": true
+        },
+	{
+            "name": "Judgement",
+            "code": "JUD",
+            "active": true
+        },
+      {
+            "name": "Interim order for Compliance",
+            "code": "IOFC",
+            "active": true
+        }
+        
+    ]
+}

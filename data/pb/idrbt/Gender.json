@@ -1,0 +1,36 @@
+{ 
+	"tenantId": "pb",
+    	"moduleName": "idrbt",
+  "Gender": [
+    {
+      "name": "Male",
+      "code": "M",
+      "active": true
+    },
+    {
+      "name": "Female",
+      "code": "F",
+      "active": true
+    },
+    {
+      "name": "Non-binary",
+      "code": "NB",
+      "active": true
+    },
+    {
+      "name": "Transgender",
+      "code": "TG",
+      "active": true
+    },
+    {
+      "name": "Other",
+      "code": "O",
+      "active": true
+    },
+    {
+      "name": "Prefer not to say",
+      "code": "PNS",
+      "active": true
+    }
+  ]
+}

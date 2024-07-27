@@ -1,0 +1,36 @@
+{ 
+	"tenantId": "pb",
+    	"moduleName": "idrbt",
+  "NomineeWithRelationships": [
+    {
+      "name": "Parent",
+      "code": "PARENT",
+      "active": true
+    },
+    {
+      "name": "Spouse",
+      "code": "SPOUSE",
+      "active": true
+    },
+    {
+      "name": "Child",
+      "code": "CHILD",
+      "active": true
+    },
+    {
+      "name": "Sibling",
+      "code": "SIBLING",
+      "active": true
+    },
+    {
+      "name": "Friend",
+      "code": "FRIEND",
+      "active": true
+    },
+    {
+      "name": "Other",
+      "code": "OTHER",
+      "active": true
+    }
+  ]
+}

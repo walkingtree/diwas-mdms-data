@@ -1,0 +1,20 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "common-masters",
+    	"Decision": [{
+            "name": "Appeal",
+            "code": "APL001",
+            "active": true
+        },
+        {
+            "name": "Review",
+            "code": "REV002",
+            "active": true
+        },
+	{
+            "name": "Compliance",
+            "code": "COM003",
+            "active": true
+        }
+    ]
+}

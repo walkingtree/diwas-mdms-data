@@ -1,0 +1,15 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "common-masters",
+    	"StageCompliance": [{
+            "name": "Compliance Initiated",
+            "code": "COMP-INI",
+            "active": true
+        },
+        {
+            "name": "Compliance Completed",
+            "code": "COMP-CMPL",
+            "active": true
+        }
+    ]
+}

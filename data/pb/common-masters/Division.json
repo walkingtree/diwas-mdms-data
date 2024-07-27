@@ -1,0 +1,20 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "common-masters",
+    	"Division": [{
+            "name": "Gwalior",
+            "code": "GWL001",
+            "active": true
+        },
+        {
+            "name": "Jabalpur",
+            "code": "JBL002",
+            "active": true
+        },
+	{
+            "name": "Indore",
+            "code": "IND003",
+            "active": true
+        }
+    ]
+}

@@ -1,0 +1,962 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "ilms",
+    	"District": [{
+            "name": "Alirajpur",
+            "code": "A001",
+            "active": true
+        },
+        {
+            "name": "Anuppur",
+            "code": "A002",
+            "active": true
+        },
+	{
+            "name": "Ashok Nagar",
+            "code": "A003",
+            "active": true
+        },
+	{
+            "name": "Balaghat",
+            "code": "BAL004",
+            "active": true
+        },
+      {
+            "name": "Barwani",
+            "code": "BA005",
+            "active": true
+        },
+	{
+            "name": "Betul",
+            "code": "BE006",
+            "active": true
+        },
+      {
+            "name": "Bhind",
+            "code": "BH007",
+            "active": true
+        },
+	{
+            "name": "Bhopal",
+            "code": "BPL008",
+            "active": true
+        },
+      {
+            "name": "Burhanpur",
+            "code": "BPR009",
+            "active": true
+        },
+	{
+            "name": "Chhatarpur",
+            "code": "CTR010 ",
+            "active": true
+        },
+      {
+            "name": "Chhindwara",
+            "code": "CWA011",
+            "active": true
+        },
+      {
+            "name": "Damoh",
+            "code": "DAM012",
+            "active": true
+        },
+	{
+            "name": "Datia",
+            "code": "DA013",
+            "active": true
+        },
+      {
+            "name": "Dewas",
+            "code": "DS014",
+            "active": true
+        },
+	{
+            "name": "Dhar",
+            "code": "DHA015",
+            "active": true
+        },
+       {
+            "name": "Dindori",
+            "code": "DIR016",
+            "active": true
+        },
+	{
+            "name": "East Nimar",
+            "code": "EN017",
+            "active": true
+        },
+      {
+            "name": "Guna",
+            "code": "GUNA018",
+            "active": true
+        },
+	{
+            "name": "Gwalior",
+            "code": "GWL019",
+            "active": true
+        },
+      {
+            "name": "Harda",
+            "code": "HA020",
+            "active": true
+        },
+       {
+            "name": "Hoshangabad",
+            "code": "HSD021",
+            "active": true
+        },
+	{
+            "name": "Indore",
+            "code": "IND022",
+            "active": true
+        },
+      {
+            "name": "Jabalpur",
+            "code": "JBL023",
+            "active": true
+        },
+	{
+            "name": "Jhabua",
+            "code": "JHA024",
+            "active": true
+        },
+       {
+            "name": "Katni",
+            "code": "KAT025",
+            "active": true
+        },
+       {
+            "name": "Khandwa",
+            "code": "KHA026",
+            "active": true
+        },
+	{
+            "name": "Khargone",
+            "code": "KHA027",
+            "active": true
+        },
+      {
+            "name": "Mandla",
+            "code": "MAN028",
+            "active": true
+        },
+	{
+            "name": "Mandsaur",
+            "code": "MAN029",
+            "active": true
+        },
+       {
+            "name": "Morena",
+            "code": "MM030",
+            "active": true
+        },
+       {
+            "name": "Narsinghpur",
+            "code": "NSP031",
+            "active": true
+        },
+	{
+            "name": "Neemuch",
+            "code": "NEE032",
+            "active": true
+        },
+      {
+            "name": "Panna",
+            "code": "PA033",
+            "active": true
+        },
+	{
+            "name": "Raisen",
+            "code": "RI034",
+            "active": true
+        },
+       {
+            "name": "Rajgarh",
+            "code": "RH035",
+            "active": true
+        },
+       {
+            "name": "Ratlam",
+            "code": "RAT036",
+            "active": true
+        },
+	{
+            "name": "Rewa",
+            "code": "RE037",
+            "active": true
+        },
+      {
+            "name": "Sagar",
+            "code": "SA038",
+            "active": true
+        },
+	{
+            "name": "Satna",
+            "code": "SAT039",
+            "active": true
+        },
+       {
+            "name": "Sehore",
+            "code": "SEH040",
+            "active": true
+        },
+       {
+            "name": "Seoni",
+            "code": "S041",
+            "active": true
+        },
+	{
+            "name": "Shahdol",
+            "code": "SHa042",
+            "active": true
+        },
+      {
+            "name": "Shajapur",
+            "code": "SHAS043",
+            "active": true
+        },
+	{
+            "name": "Sheopur",
+            "code": "SHEL044",
+            "active": true
+        },
+       {
+            "name": "Shivpuri",
+            "code": "SHI045",
+            "active": true
+        },
+      {
+            "name": "Sidhi",
+            "code": "SID046",
+            "active": true
+        },
+       {
+            "name": "Singrauli",
+            "code": "SIN047",
+            "active": true
+        },
+	{
+            "name": "Tikamgarh",
+            "code": "TIK048",
+            "active": true
+        },
+      {
+            "name": "Ujjain",
+            "code": "UJJ049",
+            "active": true
+        },
+	{
+            "name": "Umaria",
+            "code": "UMA050",
+            "active": true
+        },
+       {
+            "name": "Vidisha",
+            "code": "VID051",
+            "active": true
+        },
+       {
+            "name": "West Nimar",
+            "code": "WN052",
+            "active": true
+        },
+          {
+            "name": "Alappuzha",
+            "code": "AL001",
+            "active": true
+          },
+          {
+            "name": "Ernakulam",
+            "code": "ER002",
+            "active": true
+          },
+          {
+            "name": "Idukki",
+            "code": "ID003",
+            "active": true
+          },
+          {
+            "name": "Kannur",
+            "code": "KA004",
+            "active": true
+          },
+          {
+            "name": "Kasaragod",
+            "code": "KA005",
+            "active": true
+          },
+          {
+            "name": "Kollam",
+            "code": "KO006",
+            "active": true
+          },
+          {
+            "name": "Kottayam",
+            "code": "KO007",
+            "active": true
+          },
+          {
+            "name": "Kozhikode",
+            "code": "KO008",
+            "active": true
+          },
+          {
+            "name": "Malappuram",
+            "code": "MA009",
+            "active": true
+          },
+          {
+            "name": "Palakkad",
+            "code": "PA010",
+            "active": true
+          },
+          {
+            "name": "Pathanamthitta",
+            "code": "PA011",
+            "active": true
+          },
+          {
+            "name": "Thiruvananthapuram",
+            "code": "TH012",
+            "active": true
+          },
+          {
+            "name": "Thrissur",
+            "code": "TH013",
+            "active": true
+          },
+          {
+            "name": "Wayanad",
+            "code": "WA014",
+            "active": true
+          },
+          {
+            "name": "Agra",
+            "code": "AG001",
+            "active": true
+          },
+          {
+            "name": "Aligarh",
+            "code": "AL002",
+            "active": true
+          },
+          {
+            "name": "Allahabad",
+            "code": "AL003",
+            "active": true
+          },
+          {
+            "name": "Ambedkar Nagar",
+            "code": "AM004",
+            "active": true
+          },
+          {
+            "name": "Auraiya",
+            "code": "AU005",
+            "active": true
+          },
+          {
+            "name": "Azamgarh",
+            "code": "AZ006",
+            "active": true
+          },
+          {
+            "name": "Baghpat",
+            "code": "BA007",
+            "active": true
+          },
+          {
+            "name": "Bahraich",
+            "code": "BA008",
+            "active": true
+          },
+          {
+            "name": "Ballia",
+            "code": "BA009",
+            "active": true
+          },
+          {
+            "name": "Balrampur",
+            "code": "BA010",
+            "active": true
+          },
+          {
+            "name": "Banda",
+            "code": "BA011",
+            "active": true
+          },
+          {
+            "name": "Barabanki",
+            "code": "BA012",
+            "active": true
+          },
+          {
+            "name": "Bareilly",
+            "code": "BA013",
+            "active": true
+          },
+          {
+            "name": "Basti",
+            "code": "BA014",
+            "active": true
+          },
+          {
+            "name": "Bijnor",
+            "code": "BI015",
+            "active": true
+          },
+          {
+            "name": "Budaun",
+            "code": "BU016",
+            "active": true
+          },
+          {
+            "name": "Bulandshahar",
+            "code": "BU017",
+            "active": true
+          },
+          {
+            "name": "Chandauli",
+            "code": "CH018",
+            "active": true
+          },
+          {
+            "name": "Chitrakoot",
+            "code": "CH019",
+            "active": true
+          },
+          {
+            "name": "Deoria",
+            "code": "DE020",
+            "active": true
+          },
+          {
+            "name": "Etah",
+            "code": "ET021",
+            "active": true
+          },
+          {
+            "name": "Etawah",
+            "code": "ET022",
+            "active": true
+          },
+          {
+            "name": "Faizabad",
+            "code": "FA023",
+            "active": true
+          },
+          {
+            "name": "Farrukhabad",
+            "code": "FA024",
+            "active": true
+          },
+          {
+            "name": "Fatehpur",
+            "code": "FA025",
+            "active": true
+          },
+          {
+            "name": "Firozabad",
+            "code": "FI026",
+            "active": true
+          },
+          {
+            "name": "Gautam Buddha Nagar",
+            "code": "GA027",
+            "active": true
+          },
+          {
+            "name": "Ghaziabad",
+            "code": "GH028",
+            "active": true
+          },
+          {
+            "name": "Ghazipur",
+            "code": "GH029",
+            "active": true
+          },
+          {
+            "name": "Gonda",
+            "code": "GO030",
+            "active": true
+          },
+          {
+            "name": "Gorakhpur",
+            "code": "GO031",
+            "active": true
+          },
+          {
+            "name": "Hamirpur",
+            "code": "HA032",
+            "active": true
+          },
+          {
+            "name": "Hardoi",
+            "code": "HA033",
+            "active": true
+          },
+          {
+            "name": "Jalaun",
+            "code": "JA034",
+            "active": true
+          },
+          {
+            "name": "Jaunpur",
+            "code": "JA035",
+            "active": true
+          },
+          {
+            "name": "Jhansi",
+            "code": "JH036",
+            "active": true
+          },
+          {
+            "name": "Jyotiba Phule Nagar",
+            "code": "JP037",
+            "active": true
+          },
+          {
+            "name": "Kannauj",
+            "code": "KA038",
+            "active": true
+          },
+          {
+            "name": "Kanpur Dehat",
+            "code": "KA039",
+            "active": true
+          },
+          {
+            "name": "Kanpur Nagar",
+            "code": "KA040",
+            "active": true
+          },
+          {
+            "name": "Kanshiram Nagar",
+            "code": "KA041",
+            "active": true
+          },
+          {
+            "name": "Kaushambi",
+            "code": "KA042",
+            "active": true
+          },
+          {
+            "name": "Kheri",
+            "code": "KE043",
+            "active": true
+          },
+          {
+            "name": "Kushinagar",
+            "code": "KU044",
+            "active": true
+          },
+          {
+            "name": "Lalitpur",
+            "code": "LA045",
+            "active": true
+          },
+          {
+            "name": "Lucknow",
+            "code": "LU046",
+            "active": true
+          },
+          {
+            "name": "Mahamaya Nagar",
+            "code": "MA047",
+            "active": true
+          },
+          {
+            "name": "Maharajganj",
+            "code": "MA048",
+            "active": true
+          },
+          {
+            "name": "Mahoba",
+            "code": "MA049",
+            "active": true
+          },
+          {
+            "name": "Mainpuri",
+            "code": "MA050",
+            "active": true
+          },
+          {
+            "name": "Mathura",
+            "code": "MA051",
+            "active": true
+          },
+          {
+            "name": "Mau",
+            "code": "MA052",
+            "active": true
+          },
+          {
+            "name": "Meerut",
+            "code": "ME053",
+            "active": true
+          },
+          {
+            "name": "Mirzapur",
+            "code": "MI054",
+            "active": true
+          },
+          {
+            "name": "Moradabad",
+            "code": "MO055",
+            "active": true
+          },
+          {
+            "name": "Muzaffarnagar",
+            "code": "MU056",
+            "active": true
+          },
+          {
+            "name": "Pilibhit",
+            "code": "PI057",
+            "active": true
+          },
+          {
+            "name": "Pratapgarh",
+            "code": "PR058",
+            "active": true
+          },
+          {
+            "name": "Rae Bareli",
+            "code": "RA059",
+            "active": true
+          },
+          {
+            "name": "Rampur",
+            "code": "RA060",
+            "active": true
+          },
+          {
+            "name": "Saharanpur",
+            "code": "SA061",
+            "active": true
+          },
+          {
+            "name": "Sant Kabir Nagar",
+            "code": "SA062",
+            "active": true
+          },
+          {
+            "name": "Sant Ravidas Nagar",
+            "code": "SA063",
+            "active": true
+          },
+          {
+            "name": "Shahjahanpur",
+            "code": "SH064",
+            "active": true
+          },
+          {
+            "name": "Shravasti",
+            "code": "SH065",
+            "active": true
+          },
+          {
+            "name": "Siddharthnagar",
+            "code": "SI066",
+            "active": true
+          },
+          {
+            "name": "Sitapur",
+            "code": "SI067",
+            "active": true
+          },
+          {
+            "name": "Sonbhadra",
+            "code": "SO068",
+            "active": true
+          },
+          {
+            "name": "Sultanpur",
+            "code": "SU069",
+            "active": true
+          },
+          {
+            "name": "Unnao",
+            "code": "UN070",
+            "active": true
+          },
+          {
+            "name": "Varanasi",
+            "code": "VA071",
+            "active": true
+          },
+          {
+            "name": "Almora",
+            "code": "AL001",
+            "active": true
+          },
+          {
+            "name": "Bageshwar",
+            "code": "BA002",
+            "active": true
+          },
+          {
+            "name": "Chamoli",
+            "code": "CH003",
+            "active": true
+          },
+          {
+            "name": "Champawat",
+            "code": "CH004",
+            "active": true
+          },
+          {
+            "name": "Dehradun",
+            "code": "DE005",
+            "active": true
+          },
+          {
+            "name": "Garhwal",
+            "code": "GA006",
+            "active": true
+          },
+          {
+            "name": "Hardwar",
+            "code": "HA007",
+            "active": true
+          },
+          {
+            "name": "Nainital",
+            "code": "NA008",
+            "active": true
+          },
+          {
+            "name": "Pithoragarh",
+            "code": "PI009",
+            "active": true
+          },
+          {
+            "name": "Rudraprayag",
+            "code": "RU010",
+            "active": true
+          },
+          {
+            "name": "Tehri Garhwal",
+            "code": "TE011",
+            "active": true
+          },
+          {
+            "name": "Udham Singh Nagar",
+            "code": "UD012",
+            "active": true
+          },
+          {
+            "name": "Uttarkashi",
+            "code": "UT013",
+            "active": true
+          },
+          {
+            "name": "Dhalai",
+            "code": "DH001",
+            "active": true
+          },
+          {
+            "name": "North Tripura",
+            "code": "NT002",
+            "active": true
+          },
+          {
+            "name": "South Tripura",
+            "code": "ST003",
+            "active": true
+          },
+          {
+            "name": "West Tripura",
+            "code": "WT004",
+            "active": true
+          },
+          {
+            "name": "East",
+            "code": "E001",
+            "active": true
+          },
+          {
+            "name": "North",
+            "code": "N002",
+            "active": true
+          },
+          {
+            "name": "South",
+            "code": "S003",
+            "active": true
+          },
+          {
+            "name": "West",
+            "code": "W004",
+            "active": true
+          },
+          {
+            "name": "Ajmer",
+            "code": "AJ001",
+            "active": true
+          },
+          {
+            "name": "Alwar",
+            "code": "AL002",
+            "active": true
+          },
+          {
+            "name": "Banswara",
+            "code": "BA003",
+            "active": true
+          },
+          {
+            "name": "Baran",
+            "code": "BA004",
+            "active": true
+          },
+          {
+            "name": "Barmer",
+            "code": "BA005",
+            "active": true
+          },
+          {
+            "name": "Bharatpur",
+            "code": "BH006",
+            "active": true
+          },
+          {
+            "name": "Bhilwara",
+            "code": "BH007",
+            "active": true
+          },
+          {
+            "name": "Bikaner",
+            "code": "BI008",
+            "active": true
+          },
+          {
+            "name": "Bundi",
+            "code": "BU009",
+            "active": true
+          },
+          {
+            "name": "Chittaurgarh",
+            "code": "CH010",
+            "active": true
+          },
+          {
+            "name": "Churu",
+            "code": "CH011",
+            "active": true
+          },
+          {
+            "name": "Dausa",
+            "code": "DA012",
+            "active": true
+          },
+          {
+            "name": "Dhaulpur",
+            "code": "DH013",
+            "active": true
+          },
+          {
+            "name": "Dungarpur",
+            "code": "DU014",
+            "active": true
+          },
+          {
+            "name": "Ganganagar",
+            "code": "GA015",
+            "active": true
+          },
+          {
+            "name": "Hanumangarh",
+            "code": "HA016",
+            "active": true
+          },
+          {
+            "name": "Jaipur",
+            "code": "JA017",
+            "active": true
+          },
+          {
+            "name": "Jaisalmer",
+            "code": "JA018",
+            "active": true
+          },
+          {
+            "name": "Jalor",
+            "code": "JA019",
+            "active": true
+          },
+          {
+            "name": "Jhalawar",
+            "code": "JH020",
+            "active": true
+          },
+          {
+            "name": "Jhunjhunun",
+            "code": "JH021",
+            "active": true
+          },
+          {
+            "name": "Jodhpur",
+            "code": "JO022",
+            "active": true
+          },
+          {
+            "name": "Karauli",
+            "code": "KA023",
+            "active": true
+          },
+          {
+            "name": "Kota",
+            "code": "KO024",
+            "active": true
+          },
+          {
+            "name": "Nagaur",
+            "code": "NA025",
+            "active": true
+          },
+          {
+            "name": "Pali",
+            "code": "PA026",
+            "active": true
+          },
+          {
+            "name": "Pratapgarh",
+            "code": "PR027",
+            "active": true
+          },
+          {
+            "name": "Rajsamand",
+            "code": "RA028",
+            "active": true
+          },
+          {
+            "name": "Sawai Madhopur",
+            "code": "SA029",
+            "active": true
+          },
+          {
+            "name": "Sikar",
+            "code": "SI030",
+            "active": true
+          },
+          {
+            "name": "Sirohi",
+            "code": "SI031",
+            "active": true
+          },
+          {
+            "name": "Tonk",
+            "code": "TO032",
+            "active": true
+          },
+          {
+            "name": "Udaipur",
+            "code": "UD033",
+            "active": true
+          }
+       
+        
+    ]
+}

@@ -1,0 +1,18 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "common-masters",
+    	"CaseCategory": [{
+            "name": "Service Matters",
+            "code": "SM001",
+            "description":"Removal/Dismissal/Termination from service or other major penalties",
+            "active": true
+        },
+        {
+            "name": "Academic Matters",
+            "code": "AM002",
+            "description":"Matters relating to examination",
+            "active": true
+        }
+        
+    ]
+}

@@ -1,0 +1,30 @@
+{
+  "tenantId": "mp",
+  "moduleName": "ACCESSCONTROL-ROLES",
+  "roles": [
+
+    {
+      "code": "IDRBT_ADMIN",
+      "name": "IDRBT ADMIN",
+      "description": "IDRBT Administrator which can create new employees"
+    },
+    {
+      "code": "SUPERUSER",
+      "name": "Super User",
+      "description": "System Administrator. Can change all master data and has access to all the system screens."
+    },
+    {
+
+      "code": "EMPLOYEE",
+      "name": "Employee",
+      "description": "Default role for all employees"
+    },
+    {
+
+      "code": "CITIZEN",
+      "name": "Citizen",
+      "description": "Default role for all User"
+    }
+
+   ]
+}

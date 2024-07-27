@@ -1,0 +1,51 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "common-masters",
+    	"CaseStatus": [{
+            "name": "Pending for admission",
+            "code": "PFA001",
+            "active": true
+        },
+        {
+            "name": "Notice",
+            "code": "NTC002",
+            "active": true
+        },
+	{
+            "name": "Appointment of advocate",
+            "code": "AOA003",
+            "active": true
+        },
+	{
+            "name": "Litigation - ongoing",
+            "code": "LIT-ON",
+            "active": true
+        },
+      {
+            "name": "Final order/Judgment",
+            "code": "FO004",
+            "active": true
+        },
+	{
+            "name": "Judgment compliance",
+            "code": "JC005",
+            "active": true
+        },
+      {
+            "name": "Dismissed",
+            "code": "DIS006",
+            "active": true
+        },
+	{
+            "name": "DEO",
+            "code": "DEO008",
+            "active": true
+        },
+      {
+            "name": "Disposed off",
+            "code": "DIO009",
+            "active": true
+        }
+        
+    ]
+}

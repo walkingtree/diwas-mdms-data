@@ -1,0 +1,35 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "common-masters",
+    	"DepartmentIOC": [{
+            "name": "District Educational Officer",
+            "code": "DEO001",
+            "active": true
+        },
+        {
+            "name": "District project coordinator ",
+            "code": "DPC002",
+            "active": true
+        },
+	{
+            "name": "Under Secretary ",
+            "code": "US003",
+            "active": true
+        },
+	{
+            "name": "Deputy Director",
+            "code": "DD004",
+            "active": true
+        },
+	{
+            "name": "Joint Director",
+            "code": "JD005",
+            "active": true
+        },
+      {
+            "name": "Other",
+            "code": "OTR006",
+            "active": true
+        }
+    ]
+}
