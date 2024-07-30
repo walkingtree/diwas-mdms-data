@@ -32,14 +32,9 @@
       "masterName": "Banks",
       "isStateLevel": true,
       "uniqueKeys": [
-        "$.code"
-      ]
-    },
-    "District": {
-      "masterName": "District",
-      "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
+        "$.BANK",
+        "$.IFSC",
+        "$.STATE"
       ]
     },
     "Gender": {
@@ -64,12 +59,29 @@
       ]
     },
     "State": {
-      "masterName": "State",
-      "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "State": {
+        "masterName": "State",
+        "isStateLevel": true,
+        "uniqueKeys": [
+          "$.code",
+          "$.id",
+          "$.name",
+          "$.label"
+        ]
+      },
+      "Districts": {
+        "masterName": "Districts",
+        "isStateLevel": true,
+        "uniqueKeys": [
+          "$.code",
+          "$.id",
+          "$.label",
+          "$.name"
+        ]
+      }
     },
+
+
     "TypeOfAccount": {
       "masterName": "TypeOfAccount",
       "isStateLevel": true,
