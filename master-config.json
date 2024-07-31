@@ -27,16 +27,17 @@
       ]
     }
   },
+
   "idrbt": {
     "Banks": {
       "masterName": "Banks",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.BANK",
-        "$.IFSC",
-        "$.STATE"
+        "$.IFSC"
       ]
     },
+
     "Gender": {
       "masterName": "Gender",
       "isStateLevel": true,
@@ -44,6 +45,7 @@
         "$.code"
       ]
     },
+
     "Nationality": {
       "masterName": "Nationality",
       "isStateLevel": true,
@@ -51,6 +53,7 @@
         "$.code"
       ]
     },
+
     "NomineeWithRelationships": {
       "masterName": "NomineeWithRelationships",
       "isStateLevel": true,
@@ -58,6 +61,7 @@
         "$.code"
       ]
     },
+
     "State": {
       "State": {
         "masterName": "State",
@@ -65,8 +69,7 @@
         "uniqueKeys": [
           "$.code",
           "$.id",
-          "$.name",
-          "$.label"
+          "$.name"
         ]
       },
       "Districts": {
@@ -75,7 +78,6 @@
         "uniqueKeys": [
           "$.code",
           "$.id",
-          "$.label",
           "$.name"
         ]
       }
