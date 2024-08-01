@@ -1,0 +1,36 @@
+{
+  "tenantId": "pb",
+  "moduleName": "idrbt",
+  "Question": [
+    {
+      "name": "surprise",
+      "code": "surprise01",
+      "active": true
+    },
+    {
+      "name": "smile",
+      "code": "smile02",
+      "active": true
+    },
+    {
+      "name": "blink eyes",
+      "code": "blink eyes03",
+      "active": true
+    },
+    {
+      "name": "angry",
+      "code": "angry04",
+      "active": true
+    },
+    {
+      "name": "turn face right",
+      "code": "turn face right05",
+      "active": true
+    },
+    {
+      "name": "turn face left",
+      "code": "turn face left06",
+      "active": true
+    }
+  ]
+}

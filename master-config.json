@@ -46,6 +46,15 @@
       ]
     },
 
+    "Question": {
+      "masterName": "Question",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code",
+        "$.name"
+      ]
+    },
+
     "Nationality": {
       "masterName": "Nationality",
       "isStateLevel": true,
