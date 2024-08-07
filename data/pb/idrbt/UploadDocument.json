@@ -1,0 +1,33 @@
+{
+  "tenantId": "pb",
+  "moduleName": "idrbt",
+  "UploadDocument": [
+    {
+      "name": "Passport",
+      "code": "Passport",
+      "active": true
+    },
+    {
+      "name": "VoterIDCard",
+      "code": "Voter ID Card",
+      "active": true
+    },
+    {
+      "name": "DrivingLicense",
+      "code": "Driving License",
+      "active": true
+    },
+    {
+      "name": "SalarySlip",
+      "code": "ob card issued by NREGA",
+      "active": true
+    },
+    {
+    "name": "RationCard",
+    "code": "A letter issued by the National Population Register",
+    "active": true
+    }
+  ]
+}
+
+

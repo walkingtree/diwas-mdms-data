@@ -46,6 +46,34 @@
       ]
     },
 
+    "AccountStatus": {
+      "masterName": "AccountStatus",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code",
+        "$.name"
+      ]
+    },
+
+    "ServiceType": {
+      "masterName": "ServiceType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code",
+        "$.name"
+      ]
+    },
+
+
+    "UploadDocument": {
+      "masterName": "UploadDocument",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code",
+        "$.name"
+      ]
+    },
+
     "Question": {
       "masterName": "Question",
       "isStateLevel": true,

@@ -1,0 +1,27 @@
+{
+  "tenantId": "pb",
+  "moduleName": "idrbt",
+  "AccountStatus": [
+    {
+      "name": "ACTIVE",
+      "code": "Active",
+      "active": true
+    },
+    {
+      "name": "INACTIVE",
+      "code": "Inactive",
+      "active": true
+    },
+    {
+      "name": "SUSPENDED",
+      "code": "Suspended",
+      "active": true
+    },
+    {
+      "name": "CLOSED",
+      "code": "Closed",
+      "active": true
+    }
+
+  ]
+}
