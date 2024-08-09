@@ -4,27 +4,27 @@
         "Gender": [
           {
             "name": "Male",
-            "code": "M",
+            "code": "MALE",
             "active": true
           },
           {
             "name": "Female",
-            "code": "F",
+            "code": "FEMALE",
             "active": true
           },
           {
             "name": "Non-binary",
-            "code": "NB",
+            "code": "NON-BINARY",
             "active": true
           },
           {
             "name": "Transgender",
-            "code": "TG",
+            "code": "TRANSGENDER",
             "active": true
           },
           {
             "name": "Other",
-            "code": "O",
+            "code": "OTHER",
             "active": true
           },
           {
