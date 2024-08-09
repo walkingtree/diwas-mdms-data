@@ -33,8 +33,7 @@
       "masterName": "Banks",
       "isStateLevel": true,
       "uniqueKeys": [
-        "$.BANK",
-        "$.IFSC"
+        "$.code"
       ]
     },
 
